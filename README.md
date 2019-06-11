@@ -51,23 +51,19 @@ In Fall 2017 the Trilinos Projected updated its logo system to the logo family s
     <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_square_black.png"><IMG SRC="Trilinos_logo_square_black.png" width="350"/></A></TD>
   </TR>
   <TR>
-    <TD>Trilinos_logo_square_transparant_black.png</TD>
-    <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_square_transparant_black.png"><IMG SRC="Trilinos_logo_square_transparant_black.png" width="350"/></A></TD>
+    <TD>Trilinos_logo_square_transparent_black.png</TD>
+    <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_square_transparent_black.png"><IMG SRC="Trilinos_logo_square_transparent_black.png" width="350"/></A></TD>
   </TR>
   <TR>
-    <TD>Trilinos_logo_square_transparant_blue.png</TD>
-    <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_square_transparant_blue.png"><IMG SRC="Trilinos_logo_square_transparant_blue.png" width="350"/></A></TD>
+    <TD>Trilinos_logo_square_transparent_blue.png</TD>
+    <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_square_transparent_blue.png"><IMG SRC="Trilinos_logo_square_transparent_blue.png" width="350"/></A></TD>
   </TR>
   <TR>
-    <TD>Trilinos_logo_transparant_black.png</TD>
-    <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_transparant_black.png"><IMG SRC="Trilinos_logo_transparant_black.png" width="350"/></A></TD>
+    <TD>Trilinos_logo_transparent_black.png</TD>
+    <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_transparent_black.png"><IMG SRC="Trilinos_logo_transparent_black.png" width="350"/></A></TD>
   </TR>
   <TR>
-    <TD>Trilinos_logo_transparant_blue.png</TD>
-    <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_transparant_blue.png"><IMG SRC="Trilinos_logo_transparant_blue.png" width="350"/></A></TD>
+    <TD>Trilinos_logo_transparent_blue.png</TD>
+    <TD><A HREF="https://github.com/trilinos/Logos/blob/master/Trilinos_logo_transparent_blue.png"><IMG SRC="Trilinos_logo_transparent_blue.png" width="350"/></A></TD>
   </TR>
 </Table>
-
-
-  
-  
