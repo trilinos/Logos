@@ -27,7 +27,7 @@ When communicating about the Trilinos Project, please use the current images ins
         <li> <a href="https://github.com/trilinos/Logos/blob/master/current/CMYK/Horizontal/Trilinos_Logo_CMYK_Horizontal_Navy.eps">Trilinos_Logo_CMYK_Horizontal_Navy.eps</a>
       </ul> 
     </td>
-    <td><a href="https://github.com/trilinos/Logos/blob/master/current/RGB/Horizontal/Navy/Trilinos_Logo_RGB_Horizontal_Navy.pngg"><img src="current/RGB/Horizontal/Navy/Trilinos_Logo_RGB_Horizontal_Navy.png" width="350"/></a></td>
+    <td><a href="https://github.com/trilinos/Logos/blob/master/current/RGB/Horizontal/Navy/Trilinos_Logo_RGB_Horizontal_Navy.png"><img src="current/RGB/Horizontal/Navy/Trilinos_Logo_RGB_Horizontal_Navy.png" width="350"/></a></td>
   </tr>
   <tr>
     <td> <strong>Horizontal Periwinkle</strong>
@@ -102,7 +102,7 @@ When communicating about the Trilinos Project, please use the current images ins
         <li> <a href="https://github.com/trilinos/Logos/blob/master/current/CMYK/Stacked/Trilinos_Logo_CMYK_Stacked_Black.eps">Trilinos_Logo_CMYK_Stacked_Black.eps</a>
       </ul> 
     </td>
-    <td><a href="https://github.com/trilinos/Logos/blob/master/current/RGB/Stacked/Black/Trilinos_Logo_RGB_Stacked_Black.pngg"><img src="current/RGB/Stacked/Black/Trilinos_Logo_RGB_Stacked_Black.png" width="200"/></a></td>
+    <td><a href="https://github.com/trilinos/Logos/blob/master/current/RGB/Stacked/Black/Trilinos_Logo_RGB_Stacked_Black.png"><img src="current/RGB/Stacked/Black/Trilinos_Logo_RGB_Stacked_Black.png" width="200"/></a></td>
   </tr>
   <tr>
     <td> <strong>Stacked Navy</strong>
